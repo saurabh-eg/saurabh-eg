@@ -1,115 +1,108 @@
 Saurabh Kumar Mishra
 
-Backend-Focused Full-Stack Developer | Co-Founder @ SemesterExam.com & Techfield Solution  
-Final-Year B.Tech Student | Systems, Databases & Scalable Applications
+Senior Software Developer @ Techfield Solution  
+Co-Founder @ SemesterExam.com  
+Backend-Focused Full-Stack Engineer
 
- 👋 About Me
+--------------------------------------------------
 
-I’m Saurabh Kumar Mishra, a backend-heavy full-stack developer and **Co-Founder of SemesterExam.com and Techfield Solution**.
+About Me
 
-I focus on building real, production-level systems — not just writing code, but owning the architecture, database design, APIs, and integrations that keep products running reliably at scale.
+I’m Saurabh Kumar Mishra, a backend-focused full-stack developer currently working as a Senior Software Developer at Techfield Solution and the Co-Founder of SemesterExam.com.
 
-My strongest area is backend engineering and databases, especially MongoDB.  
-I believe the backend and database are the backbone of any serious application, and I design them with long-term scalability in mind.
+I focus on building production-grade software systems with real ownership. My work involves backend architecture, database design, API development, and full-stack integration. I don’t just build features — I build systems that are meant to scale and last.
 
-Core Strengths
+My strongest area is backend engineering and databases, particularly MongoDB, where I work on schema design, query optimization, and performance-driven data modeling.
 
-- Backend Development (Node.js, Express)
-- Database Design & Optimization (MongoDB, PostgreSQL, SQL)
-- API Architecture & System Integration
-- Full-Stack Web Development (React, Next.js)
-- Mobile Development (React Native)
-- Problem Solving & DSA (Java)
-- Cloud Computing Fundamentals
+--------------------------------------------------
+
+Core Expertise
+
+Backend Development: Node.js, Express  
+Databases: MongoDB, PostgreSQL, SQL  
+API Design and System Integration  
+Full-Stack Web Development: React, Next.js  
+Mobile Development: React Native  
+Data Structures & Algorithms: Java  
+Cloud Computing Fundamentals and Scalability Concepts
+
+--------------------------------------------------
 
 Tech Stack
 
-Backend
-- Node.js, Express.js
-- MongoDB (Schema Design, Aggregations, Optimization)
-- PostgreSQL, SQL
-- REST APIs
+Backend  
+Node.js, Express  
+MongoDB  
+PostgreSQL, SQL  
 
-Frontend
-- React.js, Next.js
-- HTML, CSS, JavaScript
-- Tailwind CSS
+Frontend  
+React.js, Next.js  
+HTML, CSS, JavaScript  
+Tailwind CSS  
 
-Mobile
-- React Native
+Mobile  
+React Native  
 
-Other
-- Python
-- Git & GitHub
-- Cloud fundamentals (deployment & scalability concepts)
+Other  
+Python  
+Git & GitHub  
+Cloud fundamentals
 
- Products & Work
+--------------------------------------------------
 
- SemesterExam.com (Co-Founder)
-A live EdTech platform built to simplify exam preparation through structured and accessible content.
+Professional Work
 
-My responsibilities include:
-- Backend architecture & API development
-- MongoDB database design and management
-- Frontend–backend integration
-- Performance, scalability, and system reliability
+Techfield Solution — Senior Software Developer  
 
-This is a real product used by real users — not a demo project.
+I work on designing and developing backend-heavy web applications, database modeling, API development, and full-stack systems. My role involves translating business requirements into clean, scalable, and maintainable technical solutions.
 
----
+SemesterExam.com — Co-Founder  
 
-Techfield Solution (Co-Founder)
-A technology solutions initiative focused on **web development, backend systems, and scalable applications**.
+SemesterExam.com is a live EdTech platform built to simplify exam preparation through structured and accessible content.
 
-My role includes:
-- Designing and developing full-stack web applications
-- Backend and database-focused system design
-- Helping clients and products move from idea to implementation
-- Ensuring clean architecture and maintainable codebases
+My responsibilities include backend architecture, MongoDB database design, API development, frontend–backend integration, and system scalability planning. This is a real product used by real users.
 
+--------------------------------------------------
 
- DayTourGuide
-A full-stack travel booking platform with real-world business workflows.
+Key Projects
 
-Key Features:
-- Stripe & PayPal payment integration
-- Admin & vendor management
-- Secure backend APIs
-- Booking and transaction handling
+DayTourGuide  
 
-Tech React, Node.js, Express, MongoDB
+A full-stack travel booking platform with Stripe and PayPal payment integration, admin and vendor workflows, secure APIs, and real-world booking logic.
 
+Tech used: React, Node.js, Express, MongoDB
 
- EruditeEducare
+EruditeEducare  
+
 An admission consulting platform helping students connect with global education opportunities.
 
-Tech: React.js, Next.js
+Tech used: React.js, Next.js
 
-## What I’m Currently Working On
+--------------------------------------------------
 
-- Improving problem-solving skills (DSA in Java)
-- Deepening backend & database expertise
-- Learning cloud computing and scalable system design
-- Building and maintaining real-world products
+Current Focus
 
-Beyond Code
+Improving backend and database expertise  
+Practicing problem-solving (DSA in Java)  
+Learning cloud computing and scalable system design  
+Building and maintaining real-world products
 
-I also write — sometimes technical, sometimes poetic.  
-Writing helps me think clearly, and clarity reflects directly in my engineering decisions.
+--------------------------------------------------
 
- Career Focus
+Beyond Engineering
 
-Backend / Full-Stack / Software Engineering roles where I can:
-- Build and own real systems
-- Work on scalable, production-grade applications
-- Take responsibility beyond just assigned tasks
+I also write — sometimes technical, sometimes poetic. Writing helps me think clearly, and clarity reflects directly in my engineering decisions.
 
-🔗 Links
+--------------------------------------------------
 
-- 🌐 Portfolio: https://saurabhmishra.tech  
-- 💼 LinkedIn: https://www.linkedin.com/in/me-saurabh-mishra/  
-- 🚀 SemesterExam: https://semesterexam.com  
+Links
 
----
+Portfolio: https://saurabhmishra.tech  
+LinkedIn: https://www.linkedin.com/in/me-saurabh-mishra/  
+Techfield Solution: https://techfieldsolution.com  
+SemesterExam: https://semesterexam.com  
+GitHub: https://github.com/saurabh-eg  
 
-**Good software is not just written — it is owned, maintained, and improved continuously.**
+--------------------------------------------------
+
+Good engineers don’t just write code — they take ownership of what they build.
