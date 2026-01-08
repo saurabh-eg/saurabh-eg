@@ -1,6 +1,6 @@
 Saurabh Kumar Mishra
 
-Senior Software Developer @ Techfield Solution  
+Senior Software Developer @ TechFieldSolution  
 Co-Founder @ SemesterExam.com  
 Backend-Focused Full-Stack Engineer
 
@@ -8,7 +8,7 @@ Backend-Focused Full-Stack Engineer
 
 About Me
 
-I’m Saurabh Kumar Mishra, a backend-focused full-stack developer currently working as a Senior Software Developer at Techfield Solution and the Co-Founder of SemesterExam.com.
+I’m Saurabh Kumar Mishra, a backend-focused full-stack developer currently working as a Senior Software Developer at Tech Field Solution and the Co-Founder of SemesterExam.com.
 
 I focus on building production-grade software systems with real ownership. My work involves backend architecture, database design, API development, and full-stack integration. I don’t just build features — I build systems that are meant to scale and last.
 
